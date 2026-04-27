@@ -1,0 +1,6 @@
+*.nii.gz
+*.nii
+*.zip
+__pycache__/
+.ipynb_checkpoints/
+*.log
